@@ -12,7 +12,7 @@ I'm **Pallas**, a passionate developer with a growing expertise in coding and a 
 
 ---
 
-## Let's Git Together!
+## :octocat: Let's Git Together!
 
 I'm always open to collaboration, learning, and sharing knowledge. Whether you're interested in a project, want to connect, or just want to chat about the latest in tech, feel free to reach out via email or connect with me here on GitHub. Together, let's continue to innovate and create impactful solutions, one line of code at a time.
 
