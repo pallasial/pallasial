@@ -20,6 +20,5 @@ I'm always open to collaboration, learning, and sharing knowledge. Whether you'r
 
 ## 📫 How to Reach Me
 
-- **Email:** <a href="mailto:pallasial.pl@gmail.com" target="_blank">pallasial.pl@gmail.com</a>
-- **GitHub:** <a href="https://github.com/pallasial" target="_blank">github.com/pallasial</a>
-
+- **Email:** [pallasial.pl@gmail.com](mailto:pallasial.pl@gmail.com)
+- **GitHub:** [github.com/pallasial](https://github.com/pallasial)
