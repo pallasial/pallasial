@@ -1,9 +1,7 @@
-<h4>Hello World!</h4>
-<h5 align="justify">I'm Pallas, a fresh-faced developer stepping into the exciting world of coding with enthusiasm and a hunger for knowledge. While I may be new to the scene, I'm eager to roll up my sleeves, dive into the intricacies of programming, and create something amazing.</h5> 
+Hello World! 👋
+I'm Pallas, a passionate developer with a growing expertise in coding and a relentless drive to build and innovate. Over time, I've honed my skills and embraced the challenges of the coding world, turning curiosity into capability and enthusiasm into experience. Whether I'm tackling new projects or refining existing ones, I'm committed to delivering quality and pushing the boundaries of what's possible.
 
-<h4>Let's Git Together!</h4>
-<h5 align="justify">Feel free to reach out via email or connect with me on GitHub. Together, let's write some code, dream big, and turn our aspirations into reality, one line of code at a time!</h5>
+Let's Git Together!
+I'm always open to collaboration, learning, and sharing knowledge. Whether you're interested in a project, want to connect, or just want to chat about the latest in tech, feel free to reach out via email or connect with me here on GitHub. Together, let's continue to innovate and create impactful solutions, one line of code at a time.
 
-- 📫 How to reach me **pallasial.pl@gmail.com**
-<p align="left">
-</p>
+📫 How to reach me: pallasial.pl@gmail.com
